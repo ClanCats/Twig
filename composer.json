@@ -1,6 +1,7 @@
 {
 	"name": "clancats/twig",
 	"description": "Example package with a container file.",
+	"license": "MIT",
     "require": {
         "twig/twig": "~2.0"
     },
