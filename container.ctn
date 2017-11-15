@@ -1,0 +1,5 @@
+/**
+ * Simple twig service 
+ */
+@twig.loader: Twig_Loader_Filesystem(:twig.templates)
+@twig: Twig_Environment(@twig.loader, :twig.config)

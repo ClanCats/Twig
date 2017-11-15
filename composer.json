@@ -1,0 +1,10 @@
+{
+    "require": {
+        "twig/twig": "~2.0"
+    },
+    "extra": {
+        "container": {
+            "twig": "container.ctn"
+        }
+    }
+}
