@@ -7,7 +7,7 @@
     },
     "extra": {
         "container": {
-            "twig": "container.ctn"
+            "@main": "container.ctn"
         }
     }
 }
