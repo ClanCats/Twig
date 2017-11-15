@@ -1,4 +1,6 @@
 {
+	"name": "clancats/twig",
+	"description": "Example package with a container file.",
     "require": {
         "twig/twig": "~2.0"
     },
